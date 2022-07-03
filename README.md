@@ -4,6 +4,8 @@
 
 The purpose of this project is to show investors how the analysis made on the NYC bike-sharing data can be used to replicate results in cities like Des Moines. 
 
+Link for dashboard: https://public.tableau.com/app/profile/addis.ashenafi
+
 # There is three deliverables with this project
 * Trip Duration to a Datetime Format
 * Visualizations for the Trip Analysis
