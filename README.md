@@ -18,6 +18,9 @@ Checkout Times for Users
 
 
 Checkout times by Gender
+
+This chart breakdowns the number of rides by duration separated by gender.
+
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/102333060/177055661-5f2f9566-9d23-47ee-8b4f-635a85b43bef.png)
 
 
