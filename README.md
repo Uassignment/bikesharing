@@ -21,14 +21,14 @@ Checkout times by Gender
 
 This chart breakdowns the number of rides by duration separated by gender.
 
-![Checkout Times by Gender](https://user-images.githubusercontent.com/102333060/177055661-5f2f9566-9d23-47ee-8b4f-635a85b43bef.png)
+![Checkout Times by Gender](https://user-images.githubusercontent.com/102333060/177428796-70896df0-d91a-4e08-a3ed-92417ab78eea.png)
 
 
 Trips by Weekday per hour
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/102333060/177055679-226c7ca9-eb69-4da4-b390-a7b3ff4ae5ab.png)
 
 User trips by Gender by Weekday
-![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/102333060/177055694-8527751f-ac3b-4241-bb6f-6d9f8602fa98.png)
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/102333060/177428925-72734efa-bdd4-4295-aec6-f771f154f515.png)
 
 Popular Starting Locations
 
@@ -37,5 +37,5 @@ Popular Starting Locations
 
 
 Dashboard
-![Dashboard ](https://user-images.githubusercontent.com/102333060/177055700-0f0cdea8-2dbb-49e5-ba40-04001da6f72c.png)
+![Dashboard ](https://user-images.githubusercontent.com/102333060/177428942-14a50aee-43c4-4f7a-b590-64fb44f0ec38.png)
 
